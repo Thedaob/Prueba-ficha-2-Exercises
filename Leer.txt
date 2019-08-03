@@ -3,3 +3,7 @@ Este proyect  es para  realizar cambios a un documento html. desde esta platafor
 Ingrese y haga el cambio que desee realizar
 comente el cambio que realizó . (sea muy especifico en lo que hizo) *Corregir Ortogafia*
 
+
+
+pagina de todos los comandos de consola. 
+https://www.hostinger.co/tutoriales/comandos-de-git
